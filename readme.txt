@@ -18,3 +18,4 @@ git master do
 git dev do
 >>>>>>> dev
 ************
+master do 
