@@ -7,3 +7,5 @@ Git branch quick.
 =======
 git add branch dev.
 >>>>>>> dev
+
+git fast forward test dev
