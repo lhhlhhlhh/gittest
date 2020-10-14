@@ -9,3 +9,4 @@ git add branch dev.
 >>>>>>> dev
 
 git fast forward test dev
+git fast for s d
