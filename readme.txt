@@ -11,3 +11,4 @@ git add branch dev.
 git fast forward test dev
 git fast for s d
 git add dev
+git test cherry-pick
